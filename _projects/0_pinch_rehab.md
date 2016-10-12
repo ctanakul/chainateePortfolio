@@ -1,21 +1,19 @@
 ---
 layout: project
-title: Project 1
-date: September 22, 2014
-image: http://unsplash.it/400/200?random
+title: Pinching rehab mechanism
+date: December 11, 2015
+image: pinch_rehab.png
 ---
 
 ## Overview
-Lorem ipsum dolor sit amet, tota primis copiosae id quo. Melius eligendi elaboraret pri et, eam menandri platonem te. Tollit iudicabit gloriatur per ad. Ad diceret recteque eum, eu commodo petentium qui. No aliquid delectus eam, dicta eripuit convenire te nec. Vix no veritus dignissim. Erat ferri veniam ut eos, pro ex eius error intellegat, his te graecis oporteat honestatis.
+Some stroke sufferers are restricted to perform hand movement in activities in daily lives. 
+One of themovements is a tip pinch. This research aims to design and develop a simple mechanism 
+for pinch movement rehabilitation. The device has one degree of freedom that couples the motion 
+between the index and thumb joints. Theactuated joint is driven by a dc motor with a round cable 
+transmission system. The mechanism aims to adapt with regular hand sizes based on the average distance 
+according to bone’s length literatures. The coupling transmission ratio between 2 joints is calculated 
+to ensure a proper motion for a pulp contact. The prototype was developed and
+tested by subjects. The average force for pinch action is about 1.6 N.
 
-### Topic 1
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
-
-### Topic 2
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
-
-### Topic 3
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
-
-### Topic 4
-Quod etiam pri ea, habemus electram ea eos, propriae insolens ea qui. Pro no mollis vituperatoribus. Augue quando delicatissimi ex per, vel ea vidisse dolorem eleifend. Has te aliquid senserit, reque soleat sed ea. At bonorum facilisis disputando est, error tantas appetere nec te. Mel in nobis animal.
+This project paper was published in the 6th TSME International Conference on Mechanical Engineering 16-18 December 2015
+[PDF](https://drive.google.com/open?id=0Byrjc829ZsdHeWU0SFlmSXptTVQwVUNOUXZHaDBJdVBaVENn)
