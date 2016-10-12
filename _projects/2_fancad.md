@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Project 2
+title: Electric Fan Cad
 date: September 23, 2014
 image: FanCad.png
 ---
