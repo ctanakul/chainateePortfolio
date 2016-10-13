@@ -2,19 +2,25 @@
 layout: about
 path: /about
 url: index.html
-image: http://unsplash.it/400?random
+image: ProfilePict.png
 ---
 
-## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
+## About me
+With the motivation of inventing innovative and useful robot in real world circumstance.
+Chainatee has been walking on the path about robotics since undergraduate study.
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+He was graduated from Chulalongkorn University, Thailand with 2nd honour in Bachelor of 
+Mechanical Engineering. While studying, he teamed up with friends to compete in 
+Logistics Robot challenge. His final undergraduate project was pinching rehabilitation for 
+stroke sufferers. After graduation, he worked as a research assistant for mobile hand exoskeleton
+for BPI(Brachial Plexus Injury) sufferers. 
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+Realizing his passion, he is now further studying in  MS in Robotics, Northwestern University to 
+polish and improve abilitiess for making batter real-world robot.
 
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
+His interests include medical robot, logistics and warehouse robot, and it will span more while
+he broadens his world in graduate studying.
 
 ### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+* Medical Robot
+* Logistics Robot
